@@ -1,16 +1,12 @@
-# ina17_test
+# ina17 mobile test app
 
-A new Flutter project.
+Untuk keperluan test mobile app
 
-## Getting Started
+## Resource Aplikasi
 
-This project is a starting point for a Flutter application.
+Terlampir file .apk
+- https://drive.google.com/drive/folders/1uhMBeQNbe_n5iF52Q3C0Ydb1Ki8wsaXF?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
+Website link
+- https://ina17test.netlify.app/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
